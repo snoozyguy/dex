@@ -1,2 +1,2 @@
 # dex
-My first experience developing on Ethereum
+First time developing on Ethereum
